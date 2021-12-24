@@ -19,6 +19,6 @@ int main()
     else c=1;
     d=max(d,c);
     }
-    cout <<d;
+    cout <<d<<" ";
     
 }
